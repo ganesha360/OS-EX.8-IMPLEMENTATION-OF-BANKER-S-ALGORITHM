@@ -28,6 +28,7 @@ To write a C program to implement Bankers Algorithm.
 
 12: Print the sequence if it is in safe state or print not in safe state.
 # PROGRAM:
+```
 #include <stdio.h>
 int main()
 {
@@ -104,7 +105,7 @@ int main()
 
 	return (0);
 }
-
+```
 # OUTPUT:
 
 ![os8](https://github.com/ganesha360/OS-EX.8-IMPLEMENTATION-OF-BANKER-S-ALGORITHM/assets/120884552/13477c4a-45ed-4384-b998-5990b2997b39)
