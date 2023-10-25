@@ -28,6 +28,10 @@ To write a C program to implement Bankers Algorithm.
 
 12: Print the sequence if it is in safe state or print not in safe state.
 # PROGRAM:
+```
+Developed By: Ganesh R
+Reg No: 212222240029
+```
 ```python
 #include <stdio.h>
 int main()
